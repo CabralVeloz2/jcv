@@ -1,6 +1,9 @@
 --
 -- INCLUDE ACTUAL EXECUTION PLAN
 
+-- Ejemplo de modificacion en el archivo
+-- Daniel
+
 USE CampingJCV2
 GO
 DECLARE Cliente2_Cursor CURSOR FOR  
