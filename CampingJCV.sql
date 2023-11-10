@@ -3,6 +3,7 @@
 --   sitio:      SQL Server 2012
 --   tipo:      SQL Server 2012
 
+-- Script para GitHub
 -- Crear Base de Datos
 DROP DATABASE IF EXISTS CampingJCV;
 GO
